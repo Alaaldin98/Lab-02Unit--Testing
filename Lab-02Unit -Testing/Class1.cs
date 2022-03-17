@@ -27,6 +27,7 @@ namespace Lab_02Unit__Testing
                 switch (choice)
                 {
                     case 1:
+
                         Console.WriteLine($"\n YOUR CURRENT BALANCE IS Rs : { amount} ");
                         break;
                     case 2:
